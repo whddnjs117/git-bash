@@ -41,10 +41,8 @@
       >```Install 설치 ```
 
 ## git-bash 첫 실행 화면
-![git-bash](/image/01.jpg)
+![git-bash](/image/99.jpg)
 
-```bash
-kydk1@DESKTOP-H9QN6P9 MINGW64 ~
-$
+```Bash
+[사용자이름]@[컴퓨터이름] [bash이름] ~ 현재위치
 ```   
-asdasd
